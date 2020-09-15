@@ -8,7 +8,7 @@ node
     stage ("build")
     {
         echo("build the  code")
-        bat 'princy1612\\git_folder\\main'
+       bat '''main\\BankAppln.java'''
     }
     stage ("test")
     {
