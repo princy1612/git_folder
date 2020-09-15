@@ -14,7 +14,7 @@ node
     {
        
         echo("test the code")
-        bat 'git_floder\\main>$ javac BankAppln.java'
+       bat '''main\\BankAppln.java $ javac BankAppln.java '''
     }
 }  
       
